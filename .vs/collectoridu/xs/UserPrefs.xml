@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{AD535FE9-B1AF-437E-872A-F369ED460D24}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="collectoridu/Resources/values/Strings.xml">
+    <Files>
+      <File FileName="collectoridu/Controllers/MainActivity.cs" Line="9" Column="37" />
+      <File FileName="collectoridu/Controllers/LoginActivity.cs" Line="39" Column="40" />
+      <File FileName="collectoridu/Resources/values/Strings.xml" Line="3" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.collectoridu AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce05171513d458520c" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

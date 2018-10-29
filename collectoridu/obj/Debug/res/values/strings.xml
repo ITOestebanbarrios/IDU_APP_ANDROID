@@ -1,0 +1,1 @@
+<resources><string name="app_name">Idu Collector</string><!-- Login --><string name="login_cedula">Cédula</string><string name="login_contrasena">Contraseña</string><string name="login_olvidaste_contrasena">Olvidaste Contraseña</string><string name="login_olvidaste_usuario">Olvidaste Usuario</string><string name="login_iniciar">Iniciar</string></resources>
