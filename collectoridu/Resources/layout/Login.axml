@@ -27,23 +27,21 @@
                 android:src="@drawable/idu"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/imageView1"
+                android:id="@+id/logo_idu"
             />
-            <EditText
-                android:inputType="number"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/cedula" 
-                android:hint="@string/login_cedula"
-                android:layout_marginBottom="15dp"
-            />
+
             <EditText
                 android:inputType="textPassword"
+                android:imeOptions="actionDone"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:padding="7dp"
                 android:id="@+id/contrasena" 
                 android:layout_marginBottom="15dp"
                 android:hint="@string/login_contrasena"
+                android:textColor="#ffffff"
+                android:background="@drawable/edittext_style"
+                android:textCursorDrawable="@drawable/edittext_cursor_style"
             />
             <LinearLayout
                 android:orientation="horizontal"
@@ -72,10 +70,12 @@
                     android:id="@+id/olvidaste_contrasena" />
             </LinearLayout>
             <Button
+                android:background="@drawable/button_style"
+                android:textAllCaps="true"
                 android:text="@string/login_iniciar"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/button1" />
+                android:id="@+id/login_iniciar" />
         </LinearLayout>
 
     </LinearLayout>

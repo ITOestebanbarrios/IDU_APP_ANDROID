@@ -78,12 +78,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\LoginActivity.cs" />
     <Compile Include="Controllers\MainActivity.cs" />
+    <Compile Include="Controllers\OlvidasteActivity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="packages.config" />
+    <None Include="collectoridu.csproj" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
@@ -98,6 +100,10 @@
     <AndroidResource Include="Resources\drawable\idu.png" />
     <AndroidResource Include="Resources\drawable\gradient_bg.xml" />
     <AndroidResource Include="Resources\values\Styles.xml" />
+    <AndroidResource Include="Resources\drawable\button_style.xml" />
+    <AndroidResource Include="Resources\drawable\edittext_cursor_style.xml" />
+    <AndroidResource Include="Resources\drawable\edittext_style.xml" />
+    <AndroidResource Include="Resources\drawable\start_splash.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

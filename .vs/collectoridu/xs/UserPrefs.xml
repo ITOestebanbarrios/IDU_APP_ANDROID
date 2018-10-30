@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{AD535FE9-B1AF-437E-872A-F369ED460D24}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="collectoridu/Resources/values/Strings.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="collectoridu/Controllers/LoginActivity.cs">
     <Files>
-      <File FileName="collectoridu/Controllers/MainActivity.cs" Line="9" Column="37" />
-      <File FileName="collectoridu/Controllers/LoginActivity.cs" Line="39" Column="40" />
-      <File FileName="collectoridu/Resources/values/Strings.xml" Line="3" Column="51" />
+      <File FileName="collectoridu/Controllers/MainActivity.cs" Line="13" Column="1" />
+      <File FileName="collectoridu/Controllers/LoginActivity.cs" Line="36" Column="1" />
+      <File FileName="../iducollector/iducollector/ViewModels/AuthViewModel.cs" Line="15" Column="32" />
+      <File FileName="collectoridu/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="collectoridu/Controllers/OlvidasteActivity.cs" Line="23" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.collectoridu AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce05171513d458520c" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
