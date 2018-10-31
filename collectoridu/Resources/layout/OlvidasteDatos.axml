@@ -7,6 +7,8 @@
     android:background="@drawable/bg_splash"
     android:theme="@android:style/Theme.Material.NoActionBar"
 >
+
+    
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="match_parent"
@@ -30,19 +32,6 @@
                 android:id="@+id/logo_idu"
             />
             <EditText
-                android:inputType="number"
-                android:imeOptions="actionNext"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:padding="7dp"
-                android:id="@+id/cedula" 
-                android:hint="@string/login_cedula"
-                android:layout_marginBottom="15dp"
-                android:textColor="#ffffff"
-                android:background="@drawable/edittext_style"
-                android:textCursorDrawable="@drawable/edittext_cursor_style"
-            />
-            <EditText
                 android:inputType="textPassword"
                 android:imeOptions="actionDone"
                 android:layout_width="match_parent"
@@ -55,32 +44,6 @@
                 android:background="@drawable/edittext_style"
                 android:textCursorDrawable="@drawable/edittext_cursor_style"
             />
-            <LinearLayout
-                android:orientation="horizontal"
-                android:minWidth="25px"
-                android:minHeight="25px"
-                android:weightSum="2"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_marginBottom="10dp"
-                android:id="@+id/linearLayout2" >
-                <TextView
-                    android:layout_weight="1"
-                    android:text="@string/login_olvidaste_usuario"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="center"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/olvidaste_usuario" />
-                <TextView
-                    android:layout_weight="1"
-                    android:text="@string/login_olvidaste_contrasena"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:gravity="center"
-                    android:textColor="@android:color/white"
-                    android:id="@+id/olvidaste_contrasena" />
-            </LinearLayout>
             <Button
                 android:background="@drawable/button_style"
                 android:textAllCaps="true"

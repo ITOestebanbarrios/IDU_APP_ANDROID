@@ -1,14 +1,18 @@
 ﻿<Properties StartupConfiguration="{AD535FE9-B1AF-437E-872A-F369ED460D24}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="collectoridu/Controllers/LoginActivity.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="collectoridu/Controllers/MainActivity.cs" Line="13" Column="1" />
-      <File FileName="collectoridu/Controllers/LoginActivity.cs" Line="36" Column="1" />
-      <File FileName="../iducollector/iducollector/ViewModels/AuthViewModel.cs" Line="15" Column="32" />
-      <File FileName="collectoridu/Resources/Resource.designer.cs" Line="1" Column="1" />
-      <File FileName="collectoridu/Controllers/OlvidasteActivity.cs" Line="23" Column="44" />
+      <File FileName="collectoridu/Controllers/LoginActivity.cs" Line="29" Column="41" />
+      <File FileName="collectoridu/Resources/drawable/edittext_cursor_style.xml" Line="1" Column="1" />
+      <File FileName="collectoridu/Resources/drawable/edittext_style.xml" Line="19" Column="12" />
+      <File FileName="collectoridu/Controllers/OlvidasteActivity.cs" Line="23" Column="5" />
+      <File FileName="collectoridu/Resources/layout/tooolbar.cs" Line="1" Column="1" />
+      <File FileName="collectoridu/collectoridu.csproj" Line="1" Column="1" />
+      <File FileName="collectoridu/Resources/values/Styles.xml" Line="10" Column="54" />
+      <File FileName="Source Not Available" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.collectoridu AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce05171513d458520c" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+  <MonoDevelop.Ide.ItemProperties.collectoridu AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.ce05171513d458520c" AndroidDesignerPreferredTheme="Theme.AppCompat.Light" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

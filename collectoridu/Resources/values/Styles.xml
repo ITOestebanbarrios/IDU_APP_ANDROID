@@ -4,4 +4,11 @@
         <item name="android:windowBackground" >@drawable/bg_splash</item>
         <item name="android:windowNoTitle" >true</item>
     </style>
+
+  <style name="MainTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:colorPrimary">#00aaeb</item>
+    <item name="android:colorAccent">#00aee8</item>
+  </style>
 </resources>
